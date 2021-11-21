@@ -1,0 +1,180 @@
+ACS
+ACS + WEB(ZOOM)
+ACS Service
+ACS Service + Hardware
+ACS+BlueJeans
+BlueJeans
+Smartfren Zoom
+WEB(ZOOM)
+AWS Cloud
+Airtel Private Cloud
+Airtel Public Cloud
+Cloud- DCMS
+Cloud- DCMS-New
+Colocation – DCMS
+Cloud DDoS Advance
+Cloud DDoS Premium
+Cyber Security -Managed Security Service (MSS)
+Cyber Security-Appliance
+Cyber Security-License
+Cyber Security-License - 998313
+Cyber Security-On Field support
+Secure Device Management
+Secure Mobile
+UTM aaS
+UTM as a service Advance
+UTM as a service Premium
+VAPT
+VPNaaS
+iSOC MSS
+Cloud- DCMS
+Colo - Space
+DC and Managed Services
+Environment and Infra management services
+Network services
+Service-Consent
+Cinema Delivery
+DMX Cinema 
+Digital Media Exchange
+Digital Signage
+Media Exchange
+IPLC
+SMS Services-998316
+DTFS
+Dialport
+HCC
+ITFS
+MBIC
+VOIP
+WFH
+IBS
+Sateliite IPLC
+INAMA
+D-MPLS
+DCMS
+Ethernet services - Full circuit
+Ethernet services - Half circuit
+IP IPLC
+IPLC
+IPLC - Full Circuit
+IPLC- Half Circuit
+IPLC-BOD
+Miscellaneous
+RIO
+Satellite IPLC
+ITFS
+Local Loop
+Local Loop-BOD
+Local Loop - AP
+Local Loop - CHN
+Local Loop - GUJ 
+Local Loop - KER
+Local Loop - KK
+Local Loop - KOL
+Local Loop - MAH
+Local Loop - MAH-BOD
+Local Loop - MP
+Local Loop - MP-BOD
+Local Loop - MUM
+Local Loop - MUM-BOD
+Local Loop - NCR 
+Local Loop - NCR-BOD
+Local Loop - PUN
+Local Loop - PUN-BOD
+Local Loop - RAJ
+Local Loop - RAJ-BOD
+Local Loop - TN
+Local Loop - TN-BOD
+Local Loop - UPE
+Local Loop - UPE-BOD
+Local Loop - UPW
+Local Loop - UPW-BOD
+Managed Services
+Managed Services-New
+Managed services- DCMS
+Bulk SMS-DLT
+Miscellaneous
+Cloud- DCMS
+Colo Space
+Colo Space-New
+DC and Managed Services
+DC and Managed Services-New
+Enviornemnt and Infra Management Services
+Network Services
+SSL
+BRB
+DC_Networking
+DC_Others
+DC_Unified Computing
+EN_Licenses
+EN_Others
+EN_Routing and Switching
+EN_SDWAN / SDN
+EN_Structured Cabling
+EN_Turkey Project
+EN_Turnkey Project
+EN_Wireless
+Managed WIFI NIPS
+Managed Wifi
+NI PS
+NI PS-9987
+NIPS_OTC
+PS_AMC
+PS_FMS
+PS_I and C
+PS_Managed Services
+PS_Others
+PS_Warranty
+SD WAN- NIPS
+SDWAN-OVERLAY
+SP_Others
+UC_Digital Signage
+UC_IP Telephony
+UC_Licenses
+UC_Others
+UC_Turkey Project
+UC_Turnkey Project
+UC_Video Confrencing
+UC_Video Surveillance
+Webex
+DCMS
+Dark Fibre
+Drop & Continue
+Ethernet services - Full circuit
+IPLC
+Local loop
+Miscellaneous
+NLD
+NLD - Ethernet
+NLD-BOD
+TDC
+TM FLL
+TM Local Loop
+d-Managed MPLS
+NPLS
+Professional Services
+IaaS
+O365
+SaaS
+Virtual Compute
+TM Local loop
+Teleport
+Teleport Services
+Business Video
+Miscellaneous
+Personal Video
+VCS Bridge Service
+VCS Service
+VCS Service + Hardware
+VIP
+AMC - Charge
+Miscellaneous
+Shared Internet - 1:3
+VSAT - C-band
+VSAT - Ku band
+VSAT-Mum
+Webex
+i-MPLS Managed
+i-MPLS Unmanaged
+i-VPLS Managed
+i-VPLS Unmanaged
